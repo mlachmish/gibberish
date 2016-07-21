@@ -9,7 +9,7 @@ import sys
 import random
 import string
 
-def main(argv):
+def main(argv=sys.argv):
     # Usage check
     if 3 != len(argv):
         print "Usage: python %s [localizable source file] [output file]" % argv[0]
