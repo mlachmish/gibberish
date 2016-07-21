@@ -49,6 +49,8 @@ def main(argv=sys.argv):
     inputFile.close()
     outputFile.close()
 
+    return 0
+
 
 def printDone():
     print '... Done'
