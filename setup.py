@@ -11,7 +11,7 @@ setup(name='gibbrish',
       packages=find_packages(),
       entry_points={
             'console_scripts': [
-                  'generetor = generetor.__main__:main',
+                  'gibberish = generator.__main__:main',
             ],
       },
      )
