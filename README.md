@@ -1,4 +1,4 @@
-# localizedStringsGenerator
+# gibberish
 Generate '.strings' file with long gibberish strings in order to test if your app is ready for translation.
 
 ## Author
@@ -8,4 +8,4 @@ https://thebigfatninja.xyz
 
 ## License
 
-localizedStringsGenerator is available under the MIT license. See the LICENSE file for more info.
+gibberish is available under the MIT license. See the LICENSE file for more info.
