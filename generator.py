@@ -1,12 +1,11 @@
 #!/usr/bin/python
 
-__author__ = "Matan Lachmish and Asaf Rokach"
+__author__ = "Matan Lachmish"
 __copyright__ = "Copyright 2016"
 __version__ = "1.2"
 __status__ = "Development"
 
 import sys
-import os
 import random
 import string
 
@@ -18,7 +17,7 @@ def main(argv):
 
     print ''
     print '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
-    print '~~~ Welcome to Localization tester for iOS ~~~'
+    print '~~~ Welcome to gibrrish - localization tester for iOS ~~~'
     print '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
     print ''
 
