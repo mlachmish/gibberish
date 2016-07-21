@@ -56,7 +56,3 @@ def printDone():
 def printProgress(percentage):
     sys.stdout.write("\r%d%%" % percentage)
     sys.stdout.flush()
-
-
-if __name__ == "__main__":
-    main(sys.argv)
