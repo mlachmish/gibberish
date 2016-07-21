@@ -8,5 +8,5 @@ setup(name='gibbrish',
       author='Matan Lachmish',
       author_email='matan.lachmish@gmail.com',
       url='https://github.com/mlachmish/gibberish',
-      packages=[],
+      packages=[generator],
      )
