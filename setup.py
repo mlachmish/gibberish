@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(name='gibbrish',
       version='1.0.0',
@@ -8,5 +8,10 @@ setup(name='gibbrish',
       author='Matan Lachmish',
       author_email='matan.lachmish@gmail.com',
       url='https://github.com/mlachmish/gibberish',
-      packages=['generator'],
+      packages=find_packages(),
+      entry_points={
+            'console_scripts': [
+                  'generetor = generetor.__main__:main',
+            ],
+      },
      )
