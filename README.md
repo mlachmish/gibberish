@@ -1,3 +1,8 @@
+<p align="center">
+<img src="assets/gibberish.png?raw=true" alt="gibberish" width="250">
+</p>
+
+
 # gibberish
 gibberish is a tool for iOS developer that help test your application UI befor sending it to translation.
 <br><br>
